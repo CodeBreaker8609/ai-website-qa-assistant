@@ -67,7 +67,7 @@ A typical QA review process suggested by the tool might include:
 ## Screenshot
 
 ![AI Website QA Assistant](assets/Screenshot-without-http-shows-verification.png)
-![AI Website QA Assistant](assets/Screenshot-without-http-shows-verification.png)
+![AI Website QA Assistant](assets/demo-screenshot-with-https.png)
 
 ---
 
